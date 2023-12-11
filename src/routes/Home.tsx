@@ -1,5 +1,5 @@
 import HeroImg from '../components/HeroImg';
-import NavBar from '../components/NavBar';
+import NavBar from '../components/Navbar';
 
 const Home = () => {
   return (
